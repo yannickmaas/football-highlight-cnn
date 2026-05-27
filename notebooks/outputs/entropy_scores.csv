@@ -1,0 +1,101 @@
+path,label,prediction,confidence,entropy
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 2 04240.jpg,playercelebration,playercelebration,0.7019259333610535,3.1906958
+C:\Users\Yannick\data\soccer\EventClasses\corner\World Cup 2018  All 19 Corner Kick Goals 3019.jpg,corner,corner,0.6516003012657166,4.570473
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\Spain v Russia - 2018 FIFA World Cup Russia™ - Match 51 1344.jpg,plentystock,gattempts,0.33586442470550537,3.3529205
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0122.jpg,spectator,spectator,0.790820300579071,5.401759
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0120.jpg,spectator,spectator,0.8263720273971558,5.4252634
+C:\Users\Yannick\data\soccer\EventClasses\redc\16 Yellow Cards and 4 Red Cards in a Single Game 3379.jpg,redc,yellowcard,0.9359245896339417,5.380406
+C:\Users\Yannick\data\soccer\EventClasses\redc\red cards 1856.jpg,redc,redc,0.9215789437294006,5.0950537
+C:\Users\Yannick\data\soccer\EventClasses\corner\Spain v Russia - 2018 FIFA World Cup Russia™ - Match 51 0852.jpg,corner,corner,0.7504571676254272,4.561474
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\France v Croatia - 2018 FIFA World Cup™ FINAL - HIGHLIGHTS 1408.jpg,plentystock,plentystock,0.616480827331543,4.7289944
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\All 169 Goals scored in the World Cup 2018 - Part 1 25311.jpg,plentystock,plentystock,0.7464604377746582,3.3686292
+C:\Users\Yannick\data\soccer\EventClasses\corner\Top 10 Corner Kick Goals in Football ● Impossible Is Nothing 5163.jpg,corner,yellowcard,0.602256178855896,5.2034664
+C:\Users\Yannick\data\soccer\EventClasses\redc\red cards 0995.jpg,redc,redc,0.572260320186615,5.447679
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\France v Croatia - 2018 FIFA World Cup™ FINAL - HIGHLIGHTS 1592.jpg,playercelebration,freekick,0.32964184880256653,2.344862
+C:\Users\Yannick\data\soccer\EventClasses\redc\red cards 2308.jpg,redc,redc,0.9678221344947815,5.1317787
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 9002.jpg,offside,offside,0.7621488571166992,2.339943
+C:\Users\Yannick\data\soccer\EventClasses\freekick\All 169 Goals scored in the World Cup 2018 - Part 1 05561.jpg,freekick,freekick,0.37682679295539856,5.2140746
+C:\Users\Yannick\data\soccer\EventClasses\corner\All 169 Goals scored in the World Cup 2018 - Part 1 10044.jpg,corner,corner,0.5494374632835388,4.7496533
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 1 25756.jpg,playercelebration,spectator,0.7299041152000427,5.399534
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 1 12649.jpg,playercelebration,corner,0.37181007862091064,4.797016
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0015.jpg,spectator,spectator,0.9476457834243774,5.4301333
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\16 Yellow Cards and 4 Red Cards in a Single Game 6822.jpg,yellowcard,yellowcard,0.9579135775566101,5.487443
+C:\Users\Yannick\data\soccer\EventClasses\corner\Top 10 Corner Kick Goals in Football ● Impossible Is Nothing 3408.jpg,corner,gattempts,0.667568564414978,4.959522e-05
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\Top 15 Most Shocking Reactions To Red Card in Football 07764.jpg,yellowcard,yellowcard,0.821797251701355,5.459921
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0043.jpg,spectator,spectator,0.9384413361549377,5.4484587
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\Top 15 Most Shocking Reactions To Red Card in Football 00328.jpg,yellowcard,yellowcard,0.5416372418403625,5.305751
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0036.jpg,spectator,spectator,0.9460552930831909,5.446415
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\France v Croatia - 2018 FIFA World Cup™ FINAL - HIGHLIGHTS 2332.jpg,gattempts,gattempts,0.4914594292640686,3.2897935
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\16 Yellow Cards and 4 Red Cards in a Single Game 3200.jpg,yellowcard,yellowcard,0.981423556804657,5.443527
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\Croatia v Denmark - 2018 FIFA World Cup Russia™ - Match 52 1541.jpg,gattempts,plentystock,0.3751330077648163,4.5467095
+C:\Users\Yannick\data\soccer\EventClasses\freekick\All 169 Goals scored in the World Cup 2018 - Part 1 24309.jpg,freekick,plentystock,0.5172359347343445,4.502479
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Spain v Russia - 2018 FIFA World Cup Russia™ - Match 51 0177.jpg,spectator,spectator,0.901767373085022,5.445444
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 2 11953.jpg,spectator,spectator,0.7993689179420471,5.451564
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0112.jpg,spectator,spectator,0.9486595988273621,5.419816
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 10273.jpg,goal,goal,0.6717528700828552,4.57375
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 2927.jpg,offside,offside,0.6059358716011047,4.284409
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\Brazil v Mexico - 2018 FIFA World Cup Russia™ - Match 53 0470.jpg,gattempts,gattempts,0.6017149090766907,3.8525515
+C:\Users\Yannick\data\soccer\EventClasses\freekick\All 169 Goals scored in the World Cup 2018 - Part 1 12012.jpg,freekick,freekick,0.31750673055648804,5.321539
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 8768.jpg,offside,offside,0.8314924240112305,2.7238684
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\Top 15 Most Shocking Reactions To Red Card in Football 00353.jpg,yellowcard,yellowcard,0.37991970777511597,5.3142147
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 8011.jpg,offside,offside,0.916251003742218,5.0691833
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 14433.jpg,goal,goal,0.552714467048645,4.4721007
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 3453.jpg,offside,offside,0.9415403008460999,4.5380535
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\Croatia v Denmark - 2018 FIFA World Cup Russia™ - Match 52 2288.jpg,plentystock,corner,0.6902850866317749,4.832113
+C:\Users\Yannick\data\soccer\EventClasses\redc\16 Yellow Cards and 4 Red Cards in a Single Game 6959.jpg,redc,yellowcard,0.9160161018371582,5.4581237
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 02718.jpg,goal,goal,0.3693615198135376,4.5453014
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\Top 20 Famous Red Cards In Football 01078.jpg,yellowcard,redc,0.6114746332168579,4.224049
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 8426.jpg,offside,offside,0.7604976296424866,4.5510554
+C:\Users\Yannick\data\soccer\EventClasses\freekick\Portugal v Spain - 2018 FIFA World Cup Russia™ - MATCH 3 2494.jpg,freekick,freekick,0.48257923126220703,4.915691
+C:\Users\Yannick\data\soccer\EventClasses\spectator\Spain v Russia - 2018 FIFA World Cup Russia™ - Match 51 0298.jpg,spectator,spectator,0.9558348059654236,5.451923
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 00198.jpg,goal,goal,0.44580167531967163,4.562412
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 1 06430.jpg,spectator,spectator,0.5399260520935059,5.4304395
+C:\Users\Yannick\data\soccer\EventClasses\corner\All 169 Goals scored in the World Cup 2018 - Part 2 10747.jpg,corner,plentystock,0.4767165184020996,4.598816
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 19195.jpg,goal,corner,0.5218806266784668,4.9816074
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\16 Yellow Cards and 4 Red Cards in a Single Game 0492.jpg,yellowcard,yellowcard,0.936410129070282,5.4790955
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 1 23731.jpg,spectator,spectator,0.7945111393928528,5.455247
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\16 Yellow Cards and 4 Red Cards in a Single Game 2501.jpg,yellowcard,yellowcard,0.6455599069595337,5.3440037
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\All 169 Goals scored in the World Cup 2018 - Part 1 13143.jpg,plentystock,plentystock,0.44770368933677673,4.295484
+C:\Users\Yannick\data\soccer\EventClasses\redc\Top 20 Famous Red Cards In Football 03901.jpg,redc,redc,0.9243062734603882,5.114569
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 2 00636.jpg,spectator,spectator,0.9893744587898254,5.4936934
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\All 169 Goals scored in the World Cup 2018 - Part 1 19325.jpg,plentystock,plentystock,0.546270489692688,4.5433855
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 2 06499.jpg,spectator,spectator,0.8310896754264832,5.50121
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 2 11960.jpg,spectator,spectator,0.7345551252365112,5.457487
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\Croatia v Denmark - 2018 FIFA World Cup Russia™ - Match 52 2543.jpg,plentystock,gattempts,0.5761569738388062,5.5451784
+C:\Users\Yannick\data\soccer\EventClasses\spectator\All 169 Goals scored in the World Cup 2018 - Part 1 23741.jpg,spectator,spectator,0.6720530390739441,5.4445496
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\Spain v Russia - 2018 FIFA World Cup Russia™ - Match 51 0637.jpg,playercelebration,playercelebration,0.6423254609107971,4.5797586
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 1 06919.jpg,playercelebration,spectator,0.3670285642147064,5.440958
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\16 Yellow Cards and 4 Red Cards in a Single Game 1045.jpg,yellowcard,yellowcard,0.9680537581443787,5.373167
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 2 10233.jpg,playercelebration,offside,0.5228667855262756,4.0080137
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\TOP 10 GOALS - 2018 FIFA WORLD CUP RUSSIA (EXCLUSIVE) 1589.jpg,gattempts,playercelebration,0.3887280523777008,4.578187
+C:\Users\Yannick\data\soccer\EventClasses\redc\red cards 2313.jpg,redc,redc,0.9681534171104431,5.1302996
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 8941.jpg,offside,offside,0.8964810371398926,2.395314
+C:\Users\Yannick\data\soccer\EventClasses\freekick\Top 10 Free Kick Takers in Football 2016 17 02260.jpg,freekick,freekick,0.5757231712341309,4.9693184
+C:\Users\Yannick\data\soccer\EventClasses\redc\Top 15 Most Shocking Reactions To Red Card in Football 06251.jpg,redc,spectator,0.2870136499404907,5.335929
+C:\Users\Yannick\data\soccer\EventClasses\redc\red cards 2337.jpg,redc,redc,0.9654363393783569,5.137042
+C:\Users\Yannick\data\soccer\EventClasses\offside\How Offside Works in Soccer 0505.jpg,offside,offside,0.7646429538726807,3.3990264
+C:\Users\Yannick\data\soccer\EventClasses\corner\World Cup 2018  All 19 Corner Kick Goals 1400.jpg,corner,freekick,0.4777888059616089,4.9233017
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 08045.jpg,goal,goal,0.6418961882591248,4.4472303
+C:\Users\Yannick\data\soccer\EventClasses\redc\16 Yellow Cards and 4 Red Cards in a Single Game 6952.jpg,redc,yellowcard,0.7864444851875305,5.461982
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\Uruguay v Portugal - 2018 FIFA World Cup Russia™ - Match 49 0358.jpg,gattempts,gattempts,0.7603670954704285,3.8025455
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\Croatia v Denmark - 2018 FIFA World Cup Russia™ - Match 52 1347.jpg,gattempts,gattempts,0.6551807522773743,5.5451784
+C:\Users\Yannick\data\soccer\EventClasses\freekick\Germany v Sweden - 2018 FIFA World Cup Russia™ - Match 27 2573.jpg,freekick,gattempts,0.69413161277771,1.6420087
+C:\Users\Yannick\data\soccer\EventClasses\corner\Top 10 Corner Kick Goals in Football ● Impossible Is Nothing 1309.jpg,corner,corner,0.6424010396003723,3.9792252
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 6058.jpg,offside,offside,0.8635736703872681,4.8877897
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\France v Croatia - 2018 FIFA World Cup™ FINAL - HIGHLIGHTS 2062.jpg,gattempts,gattempts,0.4755409061908722,3.9805179
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 2 14079.jpg,playercelebration,playercelebration,0.5671828389167786,5.290394
+C:\Users\Yannick\data\soccer\EventClasses\gattempts\TOP 10 GOALS - 2018 FIFA WORLD CUP RUSSIA (EXCLUSIVE) 5527.jpg,gattempts,gattempts,0.799455463886261,3.7783573
+C:\Users\Yannick\data\soccer\EventClasses\corner\World Cup 2018  All 19 Corner Kick Goals 3026.jpg,corner,corner,0.6385811567306519,4.541706
+C:\Users\Yannick\data\soccer\EventClasses\corner\All 169 Goals scored in the World Cup 2018 - Part 1 13581.jpg,corner,goal,0.3644808232784271,5.0051246
+C:\Users\Yannick\data\soccer\EventClasses\freekick\All 169 Goals scored in the World Cup 2018 - Part 1 01319.jpg,freekick,plentystock,0.5538056492805481,4.0493364
+C:\Users\Yannick\data\soccer\EventClasses\goal\All 169 Goals scored in the World Cup 2018 - Part 1 20386.jpg,goal,gattempts,0.28930920362472534,4.5286694
+C:\Users\Yannick\data\soccer\EventClasses\corner\World Cup 2018  All 19 Corner Kick Goals 1869.jpg,corner,freekick,0.48201802372932434,5.068364
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\Spain v Russia - 2018 FIFA World Cup Russia™ - Match 51 2481.jpg,plentystock,gattempts,0.6229571104049683,5.5451784
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\16 Yellow Cards and 4 Red Cards in a Single Game 6804.jpg,yellowcard,yellowcard,0.9647548198699951,5.4792795
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 1 22945.jpg,playercelebration,plentystock,0.27995893359184265,4.2658663
+C:\Users\Yannick\data\soccer\EventClasses\plentystock\All 169 Goals scored in the World Cup 2018 - Part 1 27362.jpg,plentystock,goal,0.4729119539260864,4.0397987
+C:\Users\Yannick\data\soccer\EventClasses\playercelebration\All 169 Goals scored in the World Cup 2018 - Part 2 06075.jpg,playercelebration,playercelebration,0.7916073799133301,5.2882414
+C:\Users\Yannick\data\soccer\EventClasses\freekick\Portugal v Spain - 2018 FIFA World Cup Russia™ - MATCH 3 2670.jpg,freekick,spectator,0.49295276403427124,5.415094
+C:\Users\Yannick\data\soccer\EventClasses\offside\Overview of Law 11 Offside 8770.jpg,offside,offside,0.8323602080345154,2.5822048
+C:\Users\Yannick\data\soccer\EventClasses\corner\World Cup 2018  All 19 Corner Kick Goals 4252.jpg,corner,corner,0.8127121925354004,4.61537
+C:\Users\Yannick\data\soccer\EventClasses\yellowcard\Top 15 Most Shocking Reactions To Red Card in Football 07761.jpg,yellowcard,yellowcard,0.7639520764350891,5.4735594
